@@ -1,0 +1,5 @@
+#!name=Simple Service Discovery Protocol Excluded
+#!desc=fix some issues when using chromecast with Surge VIF
+
+[General]
+tun-excluded-routes = 239.255.255.250/32
