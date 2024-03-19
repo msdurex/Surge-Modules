@@ -1,5 +1,6 @@
 #!name=DoH
 #!desc=DNS over https overwrite
+
 [General]
 doh-server = https://dns.alidns.com/dns-query
 doh-server = https://doh.pub/dns-query
