@@ -1,0 +1,5 @@
+#!name=WiFi Suspend
+#!desc=Suspend VPN when connect to certain WiFi hotspots. 
+
+[SSID Setting]
+"WiFi-name" suspend=true
