@@ -1,0 +1,5 @@
+#!name=Mail SMTP
+#!desc=Mail SMTP bypass
+
+[Rule]
+DEST-PORT,587,DIRECT
